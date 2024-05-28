@@ -10,9 +10,34 @@
         <loc>/blog/</loc>
     </url>
     <url>
+        <loc>/blog/10xtmux/</loc>
+        <lastmod>2024-05-28T12:00:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/page/1/</loc>
+    </url>
+    <url>
         <loc>/now/</loc>
     </url>
     <url>
         <loc>/tags/</loc>
+    </url>
+    <url>
+        <loc>/tags/sesh/</loc>
+    </url>
+    <url>
+        <loc>/tags/sesh/page/1/</loc>
+    </url>
+    <url>
+        <loc>/tags/tmux/</loc>
+    </url>
+    <url>
+        <loc>/tags/tmux/page/1/</loc>
+    </url>
+    <url>
+        <loc>/tags/tmuxp/</loc>
+    </url>
+    <url>
+        <loc>/tags/tmuxp/page/1/</loc>
     </url>
 </urlset>

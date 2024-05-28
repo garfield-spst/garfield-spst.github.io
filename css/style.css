@@ -620,7 +620,8 @@ body {
 }
 #header #nav {
   color: #cc2a41;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.00em;
+  word-spacing: -2.00em;
   font-weight: 200;
   font-style: normal;
   font-size: 0.8rem;
